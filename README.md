@@ -1,1 +1,1 @@
-# digits_classification_using_deeplearning
+# digits_classification_using_deep_learning
